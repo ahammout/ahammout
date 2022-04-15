@@ -16,14 +16,14 @@
 </ol>
 
 # My projects
-<pre>
-<a href= "https://github.com/ahammout/1337_Pool.git">Piscine 2021 </a>
-<a href= "https://github.com/ahammout/Libft.git">Libft </a>
-<a href= "https://github.com/ahammout/ft_printf-.git">Ft_printf </a>
-<a href= "https://github.com/ahammout/get_next_line.git">Get_next_line </a>
-<a href= "https://github.com/ahammout/Born2beroot.git">Born2beroot </a>
-<a href= "https://github.com/ahammout/Minitalk.git">Minitalk </a>
-<pre>
+<ul>
+    <li> <a href= "https://github.com/ahammout/1337_Pool.git">Piscine 2021 </a> </li>
+    <li> <a href= "https://github.com/ahammout/Libft.git">Libft </a> </li>
+    <li> <a href= "https://github.com/ahammout/ft_printf-.git">Ft_printf </a> </li>
+    <li> <a href= "https://github.com/ahammout/get_next_line.git">Get_next_line </a> </li>
+    <li> <a href= "https://github.com/ahammout/Born2beroot.git">Born2beroot </a> </li>
+    <li> <a href= "https://github.com/ahammout/Minitalk.git">Minitalk </a> </li>
+</ul>
 
 
 
