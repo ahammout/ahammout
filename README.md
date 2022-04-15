@@ -3,7 +3,7 @@
 [![ahammout's 42 stats](https://badge.mediaplus.ma/binary/ahammout)](https://github.com/oakoudad/badge42)
 
 >   Aissam Hammoutane from Fes Morocco. \
->   Student at <a href = "https://1337.ma/en/">1337</a>-campus_Khouribga, : school of computer science and software engineering in morocco which belong to <a href = "https://42.fr/en/homepage/"> 42 Network </a>.\
+>   Student at <a href = "https://1337.ma/en/">1337</a>-campus_Khouribga, 1337 it's a school of computer science and software engineering in morocco which belong to <a href = "https://42.fr/en/homepage/"> 42 Network </a>.\
 >   Ineresting in web development and cyber security. 
 
 # Social media
