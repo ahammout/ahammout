@@ -14,9 +14,9 @@
   <li> <a href ="https://www.instagram.com/aissam_hammoutane/?hl=en">Instagram</a></li>
   <li> <a href ="https://twitter.com/Archer_4l554lYl">Twitter</a></li>
 </ol>
-<pre>
+
 # My projects
 
-<a href= "https://github.com/ahammout/1337_Pool.git">Pool 2021/11 </a>
+<a href= "https://github.com/ahammout/1337_Pool.git">Piscine 2021 </a>
 
-</pre>
+
