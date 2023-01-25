@@ -11,11 +11,10 @@
 
 <ol>
   <li> <a href ="https://www.linkedin.com/in/aissam-hammoutane-9968341b8/">LinkedIn</a></li>
-  <li> <a href ="https://www.instagram.com/aissam_hammoutane/?hl=en">Instagram</a></li>
   <li> <a href ="https://twitter.com/Archer_4l554lYl">Twitter</a></li>
 </ol>
 
-# My projects
+# Projects
 <ul>
     <li> <a href= "https://github.com/ahammout/1337_Pool.git">Piscine 2021 </a> </li>
     <li> <a href= "https://github.com/ahammout/Libft.git">Libft </a> </li>
