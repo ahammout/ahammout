@@ -36,7 +36,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahammout&" alt="ahammout" /></p>
 
-# 1337/42 CURSUS PROJECTS
+#### PROJECTS
 <ul>
     <li> <a href= "https://github.com/ahammout/1337_Pool.git">Piscine 2021 </a> </li>
     <li> <a href= "https://github.com/ahammout/Libft.git">Libft </a> </li>
