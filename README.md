@@ -1,3 +1,5 @@
+<img src="https://www.crio.do/blog/content/images/size/w1000/2020/09/Sep_01.png" alt="Cover" width="500" height="600">
+
 <h1 align="center">Hi 👋, I'm Aissam Hammoutane</h1>
 <h3 align="center">A software engineer student</h3>
 
