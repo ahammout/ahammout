@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aissam Hammoutane</h1>
 <h3 align="center">A software engineer student</h3>
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/ahammout" alt="ahammout's 42 stats" /></a>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahammout&label=Profile%20views&color=0e75b6&style=flat" alt="ahammout" /> </p>
+
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/ahammout" alt="ahammout's 42 stats" /></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahammout" alt="ahammout" /></a> </p>
 
@@ -36,7 +36,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahammout&" alt="ahammout" /></p>
 
-# Projects
+# 1337/42 CURSUS PROJECTS
 <ul>
     <li> <a href= "https://github.com/ahammout/1337_Pool.git">Piscine 2021 </a> </li>
     <li> <a href= "https://github.com/ahammout/Libft.git">Libft </a> </li>
