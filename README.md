@@ -40,7 +40,6 @@
 
 #### PROJECTS
 <ul>
-    <li> <a href= "https://github.com/ahammout/1337_Pool.git">Piscine 2021 </a> </li>
     <li> <a href= "https://github.com/ahammout/Libft.git">Libft </a> </li>
     <li> <a href= "https://github.com/ahammout/ft_printf-.git">Ft_printf </a> </li>
     <li> <a href= "https://github.com/ahammout/get_next_line.git">Get_next_line </a> </li>
