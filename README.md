@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aissam Hammoutane</h1>
 <h3 align="center">A software engineer student</h3>
 
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/ahammout" alt="ahammout's 42 stats" /></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahammout&label=Profile%20views&color=0e75b6&style=flat" alt="ahammout" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahammout" alt="ahammout" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/archer_4l554lyl" target="blank"><img src="https://img.shields.io/twitter/follow/archer_4l554lyl?logo=twitter&style=for-the-badge" alt="archer_4l554lyl" /></a> </p>
 
 - 🌱 I’m currently learning **c++ / javascipt**
+
+- 👨‍💻 All of my projects are available at [https://github.com/ahammout?tab=repositories](https://github.com/ahammout?tab=repositories)
 
 - 📫 How to reach me **issamhammoutane2@gmail.com**
 
@@ -29,7 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahammout&show_icons=true&locale=en" alt="ahammout" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahammout&" alt="ahammout" /></p>
-
 
 # Projects
 <ul>
