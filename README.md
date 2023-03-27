@@ -19,12 +19,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[ahammout](https://dev.to/ahammout)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ahammout" height="30" width="40" /></a>
+<a href="https://dev.to/aissam hammoutane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aissam hammoutane" height="30" width="40" /></a>
 <a href="https://twitter.com/archer_4l554lyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="archer_4l554lyl" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aissam-hammoutane-9968341b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aissam-hammoutane-9968341b8/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17810694/ahammout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17810694/ahammout" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aissam hammoutane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aissam hammoutane" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17810694" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17810694" height="30" width="40" /></a>
 <a href="https://medium.com/@ahammout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahammout" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/issamhammoutan2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/issamhammoutan2" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@issamhammoutan2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@issamhammoutan2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
