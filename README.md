@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **issamhammoutane2@gmail.com**
 
-- ⚡ Fun fact **I'm a great learner.**
 
 <p align="left"> <a href="https://twitter.com/archer_4l554lyl" target="blank"><img src="https://img.shields.io/twitter/follow/archer_4l554lyl?logo=twitter&style=for-the-badge" alt="archer_4l554lyl" /></a> </p>
 
